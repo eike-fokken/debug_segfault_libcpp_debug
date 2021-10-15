@@ -1,5 +1,3 @@
-#include <gmock/gmock-matchers.h>
-#include <gtest/gtest.h>
 #include <iostream>
 #include <nlohmann/json-schema.hpp>
 #include <nlohmann/json.hpp>
